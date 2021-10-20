@@ -1,4 +1,8 @@
-# Paper Developemnt Sample Plugin
+# ALL IN ONE PLUGIN
+
+##트위치 시참서버용 플러그인
+#### .
+#### Based : qogusdn1017/ hyeon-sample-plugin
 
 ## Environment
 
